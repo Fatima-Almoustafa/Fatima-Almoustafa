@@ -4,7 +4,7 @@
 ### Hi there 👋,I'M Fatima Al-Moustafa
 #### Flutter Developer👩‍💻
 
-##Skills: 
+####Skills: 
 .Dart
 .Java
 .OOP
@@ -19,7 +19,7 @@
 
 I'm Fatima Al-Moustafa from Syria, and I do build mobile apps and development them, I really enjoy learning languages and frameworks like flutter and android and learning every new about the development of apps using flutter
 
-Skills: Dart /Java / OOP/  SQL / NOSQL
+
 
 - 🔭 I’m currently working on  on my flutter apps 
 - 🌱 I’m currently learning the advanced concepts for the flutter framework 
