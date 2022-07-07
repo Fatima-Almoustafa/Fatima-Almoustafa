@@ -4,7 +4,7 @@
 ### Hi there 👋,I'M Fatima Al-Moustafa
 #### Flutter Developer👩‍💻
 
-###Skills: 
+##Skills: 
 .Dart
 .Java
 .OOP
@@ -25,7 +25,9 @@ I'm Fatima Al-Moustafa from Syria, and I do build mobile apps and development th
 - 🌱 I’m currently learning the advanced concepts for the flutter framework 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fatima Al-Moustafa)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Fatima Al Moustafa/)  [img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Fatima Al Moustafa)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fatima Al-Moustafa) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Fatima Al Moustafa/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Fatima Al Moustafa)  
 
 
 
