@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fatima+Al-Moustafa!;" />
 </h1>
 
-<h3 align="center">A Flutter developer from Syria 🇨🇦</h3>
+<h3 align="center">A Flutter developer from Syria </h3>
 
 <br/>
 
@@ -24,7 +24,7 @@
   <a href="engfatimaalmoustafa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/fatima-al-moustafa-3076381b2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,oop,state Managment,clean Archutacture,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,vscode,github,figma" />
     <img src="https://skillicons.dev/icons?i=postman,git,gitlab,firebase,java,mysql,noSql" /><br>
 </div>
 
