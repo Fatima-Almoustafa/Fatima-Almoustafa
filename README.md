@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="engfatimaalmoustafa@gmail.com">
+  <a href="mailto:engfatimaalmoustafa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/fatima-al-moustafa-3076381b2" target="_blank">
@@ -55,10 +55,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Fatima-Almoustafa.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Fatima-Almoustafa.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-Fatima-Almoustafa.vercel.app/?user=Fatima-Almoustafa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Fatima-Almoustafa.vercel.app/api?username=Fatima-Al-moustafa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Fatima-Almoustafa.vercel.app/api/top-langs/?username=Fatima-Almoustafa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-Fatima-Almoustafa.vercel.app/api/top-langs/?username=
+      Fatima Al-moustafa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
